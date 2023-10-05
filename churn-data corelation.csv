@@ -1,0 +1,901 @@
+Gender,Age,Payment Method,Churn,LastTransaction,Gender,Payment,Age,Churn
+male,64,credit card,loyal,98,0,0,64,0
+male,35,cheque,churn,118,0,1,35,1
+female,25,credit card,loyal,107,1,0,25,0
+male,39,credit card,loyal,90,0,0,39,0
+female,28,cheque,churn,189,1,1,28,1
+female,21,credit card,loyal,102,1,0,21,0
+male,48,credit card,loyal,141,0,0,48,0
+female,70,credit card,churn,153,1,0,70,1
+male,36,credit card,loyal,46,0,0,36,0
+male,22,credit card,loyal,51,0,0,22,0
+male,27,cash,loyal,137,0,2,27,0
+male,22,cash,loyal,147,0,2,22,0
+female,49,credit card,churn,158,1,0,49,1
+female,24,cash,churn,162,1,2,24,1
+male,45,credit card,loyal,55,0,0,45,0
+male,45,credit card,loyal,160,0,0,45,0
+female,66,cash,churn,156,1,2,66,1
+female,82,cash,churn,177,1,2,82,1
+female,35,credit card,loyal,176,1,0,35,0
+female,17,credit card,loyal,133,1,0,17,0
+male,52,cash,loyal,193,0,2,52,0
+female,49,credit card,churn,183,1,0,49,1
+male,40,credit card,loyal,110,0,0,40,0
+female,53,credit card,churn,187,1,0,53,1
+female,64,credit card,churn,133,1,0,64,1
+female,42,credit card,churn,175,1,0,42,1
+male,66,cash,loyal,168,0,2,66,0
+female,84,cash,loyal,195,1,2,84,0
+male,34,cheque,loyal,96,0,1,34,0
+male,46,credit card,loyal,86,0,0,46,0
+male,68,cash,loyal,179,0,2,68,0
+female,18,cash,churn,173,1,2,18,1
+female,49,cash,churn,188,1,2,49,1
+female,23,credit card,loyal,118,1,0,23,0
+male,38,credit card,loyal,131,0,0,38,0
+female,65,cash,churn,187,1,2,65,1
+female,22,credit card,loyal,72,1,0,22,0
+male,21,credit card,loyal,89,0,0,21,0
+female,37,credit card,churn,162,1,0,37,1
+female,70,credit card,churn,153,1,0,70,1
+female,47,credit card,churn,210,1,0,47,1
+male,55,cash,churn,126,0,2,55,1
+male,42,credit card,loyal,83,0,0,42,0
+male,38,credit card,loyal,114,0,0,38,0
+female,60,credit card,loyal,142,1,0,60,0
+male,68,credit card,loyal,112,0,0,68,0
+male,22,credit card,loyal,88,0,0,22,0
+male,63,cash,loyal,160,0,2,63,0
+male,60,cash,loyal,192,0,2,60,0
+male,25,credit card,churn,95,0,0,25,1
+male,84,credit card,loyal,163,0,0,84,0
+male,53,credit card,loyal,118,0,0,53,0
+female,47,cheque,churn,212,1,1,47,1
+male,52,credit card,loyal,132,0,0,52,0
+male,25,credit card,loyal,92,0,0,25,0
+male,52,credit card,loyal,78,0,0,52,0
+male,47,cash,loyal,163,0,2,47,0
+female,47,cash,loyal,142,1,2,47,0
+female,33,credit card,loyal,30,1,0,33,0
+male,74,credit card,loyal,195,0,0,74,0
+male,35,credit card,loyal,69,0,0,35,0
+female,35,credit card,loyal,153,1,0,35,0
+female,52,cash,loyal,203,1,2,52,0
+male,20,credit card,loyal,129,0,0,20,0
+male,50,credit card,loyal,117,0,0,50,0
+male,38,cheque,loyal,199,0,1,38,0
+male,66,credit card,loyal,87,0,0,66,0
+male,19,credit card,loyal,51,0,0,19,0
+male,42,credit card,loyal,115,0,0,42,0
+female,35,credit card,churn,174,1,0,35,1
+female,86,credit card,churn,159,1,0,86,1
+female,27,credit card,loyal,75,1,0,27,0
+male,34,credit card,churn,121,0,0,34,1
+female,64,credit card,churn,182,1,0,64,1
+male,63,credit card,loyal,92,0,0,63,0
+male,31,credit card,loyal,118,0,0,31,0
+female,36,credit card,churn,204,1,0,36,1
+female,58,cash,churn,222,1,2,58,1
+male,21,cash,churn,57,0,2,21,1
+female,27,credit card,loyal,107,1,0,27,0
+male,51,credit card,loyal,111,0,0,51,0
+male,42,credit card,loyal,113,0,0,42,0
+female,67,credit card,churn,27,1,0,67,1
+female,55,cash,loyal,170,1,2,55,0
+female,23,credit card,churn,123,1,0,23,1
+male,36,credit card,loyal,97,0,0,36,0
+female,89,cash,churn,63,1,2,89,1
+male,64,cash,loyal,156,0,2,64,0
+male,72,credit card,loyal,98,0,0,72,0
+female,50,credit card,churn,173,1,0,50,1
+male,71,cheque,loyal,157,0,1,71,0
+male,79,credit card,loyal,187,0,0,79,0
+female,51,cash,churn,185,1,2,51,1
+female,72,cash,churn,223,1,2,72,1
+female,61,cash,churn,117,1,2,61,1
+female,59,credit card,loyal,153,1,0,59,0
+male,49,credit card,loyal,148,0,0,49,0
+female,54,cheque,churn,136,1,1,54,1
+male,26,cash,loyal,112,0,2,26,0
+male,18,cash,loyal,81,0,2,18,0
+female,37,cash,loyal,178,1,2,37,0
+female,42,cash,churn,152,1,2,42,1
+male,69,credit card,loyal,82,0,0,69,0
+male,24,credit card,loyal,154,0,0,24,0
+female,62,cash,churn,121,1,2,62,1
+male,39,credit card,loyal,126,0,0,39,0
+female,37,credit card,loyal,139,1,0,37,0
+female,22,credit card,loyal,73,1,0,22,0
+male,38,cash,churn,187,0,2,38,1
+female,28,credit card,loyal,136,1,0,28,0
+male,53,credit card,loyal,138,0,0,53,0
+female,76,cheque,churn,167,1,1,76,1
+female,42,credit card,churn,165,1,0,42,1
+male,65,cash,loyal,60,0,2,65,0
+male,65,cash,churn,143,0,2,65,1
+male,24,credit card,loyal,78,0,0,24,0
+female,31,cash,churn,153,1,2,31,1
+female,46,cheque,churn,70,1,1,46,1
+male,68,credit card,loyal,37,0,0,68,0
+male,42,cash,loyal,160,0,2,42,0
+female,55,credit card,loyal,154,1,0,55,0
+female,54,cash,churn,130,1,2,54,1
+male,81,credit card,churn,178,0,0,81,1
+male,46,credit card,loyal,118,0,0,46,0
+female,63,credit card,loyal,140,1,0,63,0
+male,73,credit card,loyal,195,0,0,73,0
+male,17,credit card,loyal,130,0,0,17,0
+female,53,cash,churn,183,1,2,53,1
+female,17,credit card,loyal,51,1,0,17,0
+female,91,cheque,loyal,194,1,1,91,0
+male,35,credit card,loyal,87,0,0,35,0
+female,80,cash,churn,64,1,2,80,1
+female,35,credit card,churn,177,1,0,35,1
+female,67,credit card,loyal,117,1,0,67,0
+male,46,credit card,loyal,112,0,0,46,0
+female,50,credit card,churn,177,1,0,50,1
+female,50,cheque,churn,176,1,1,50,1
+female,25,cash,churn,148,1,2,25,1
+female,38,credit card,churn,158,1,0,38,1
+male,30,cash,loyal,117,0,2,30,0
+male,27,credit card,loyal,122,0,0,27,0
+female,32,cash,churn,134,1,2,32,1
+male,56,credit card,loyal,142,0,0,56,0
+male,29,credit card,loyal,118,0,0,29,0
+male,58,credit card,loyal,88,0,0,58,0
+female,37,credit card,churn,165,1,0,37,1
+male,49,cash,loyal,200,0,2,49,0
+male,19,credit card,loyal,96,0,0,19,0
+male,57,credit card,loyal,108,0,0,57,0
+female,27,credit card,churn,107,1,0,27,1
+female,78,cash,churn,215,1,2,78,1
+male,29,credit card,loyal,73,0,0,29,0
+male,59,cash,loyal,178,0,2,59,0
+male,62,credit card,loyal,106,0,0,62,0
+female,57,credit card,churn,157,1,0,57,1
+female,29,credit card,loyal,112,1,0,29,0
+female,28,credit card,loyal,139,1,0,28,0
+male,51,credit card,loyal,112,0,0,51,0
+male,45,credit card,churn,132,0,0,45,1
+female,85,cash,churn,194,1,2,85,1
+female,51,cash,churn,198,1,2,51,1
+male,34,credit card,loyal,98,0,0,34,0
+male,30,credit card,loyal,128,0,0,30,0
+female,89,cash,churn,170,1,2,89,1
+female,33,credit card,churn,11,1,0,33,1
+female,17,cash,churn,214,1,2,17,1
+female,50,credit card,loyal,146,1,0,50,0
+male,42,cheque,churn,142,0,1,42,1
+male,34,credit card,loyal,100,0,0,34,0
+female,55,cash,loyal,160,1,2,55,0
+female,73,cash,churn,168,1,2,73,1
+male,59,credit card,loyal,146,0,0,59,0
+male,47,cash,loyal,208,0,2,47,0
+female,78,cash,churn,169,1,2,78,1
+female,69,credit card,churn,159,1,0,69,1
+male,38,cash,loyal,189,0,2,38,0
+female,17,credit card,churn,82,1,0,17,1
+male,22,credit card,loyal,102,0,0,22,0
+female,52,cheque,loyal,150,1,1,52,0
+female,30,credit card,churn,130,1,0,30,1
+male,36,cheque,loyal,193,0,1,36,0
+female,60,cash,churn,170,1,2,60,1
+female,23,cash,churn,176,1,2,23,1
+male,40,credit card,loyal,103,0,0,40,0
+female,27,credit card,loyal,73,1,0,27,0
+female,52,credit card,churn,207,1,0,52,1
+male,75,credit card,loyal,172,0,0,75,0
+male,40,credit card,loyal,74,0,0,40,0
+male,30,credit card,loyal,77,0,0,30,0
+male,42,cash,loyal,149,0,2,42,0
+female,43,cash,loyal,72,1,2,43,0
+male,61,cash,churn,140,0,2,61,1
+male,56,credit card,loyal,46,0,0,56,0
+female,51,credit card,churn,179,1,0,51,1
+male,37,credit card,loyal,109,0,0,37,0
+female,30,credit card,loyal,111,1,0,30,0
+female,35,cash,churn,120,1,2,35,1
+male,25,cash,churn,152,0,2,25,1
+male,26,credit card,loyal,107,0,0,26,0
+female,33,credit card,churn,191,1,0,33,1
+female,43,credit card,churn,184,1,0,43,1
+male,21,cash,loyal,103,0,2,21,0
+male,29,credit card,loyal,75,0,0,29,0
+male,34,cash,loyal,118,0,2,34,0
+female,33,credit card,churn,162,1,0,33,1
+male,17,credit card,loyal,103,0,0,17,0
+female,79,credit card,churn,141,1,0,79,1
+male,79,credit card,loyal,160,0,0,79,0
+male,52,credit card,loyal,115,0,0,52,0
+female,62,cheque,churn,136,1,1,62,1
+female,35,credit card,churn,141,1,0,35,1
+male,31,credit card,loyal,55,0,0,31,0
+female,47,cash,churn,163,1,2,47,1
+male,35,credit card,loyal,107,0,0,35,0
+male,61,credit card,loyal,94,0,0,61,0
+male,62,credit card,loyal,82,0,0,62,0
+female,55,credit card,loyal,155,1,0,55,0
+male,48,cheque,loyal,143,0,1,48,0
+male,89,cash,loyal,132,0,2,89,0
+female,33,credit card,churn,172,1,0,33,1
+female,50,credit card,loyal,194,1,0,50,0
+male,63,cheque,churn,196,0,1,63,1
+female,64,credit card,churn,61,1,0,64,1
+male,74,credit card,loyal,190,0,0,74,0
+male,33,credit card,loyal,111,0,0,33,0
+male,81,credit card,loyal,149,0,0,81,0
+female,81,credit card,loyal,143,1,0,81,0
+female,50,cash,churn,129,1,2,50,1
+male,53,cash,loyal,126,0,2,53,0
+male,56,cheque,loyal,179,0,1,56,0
+female,50,credit card,churn,151,1,0,50,1
+female,38,credit card,churn,140,1,0,38,1
+male,71,credit card,loyal,131,0,0,71,0
+female,18,credit card,loyal,60,1,0,18,0
+female,27,credit card,loyal,119,1,0,27,0
+female,27,cheque,churn,182,1,1,27,1
+female,86,credit card,churn,97,1,0,86,1
+male,82,cash,loyal,159,0,2,82,0
+male,24,cash,loyal,73,0,2,24,0
+male,29,credit card,loyal,126,0,0,29,0
+male,45,credit card,loyal,67,0,0,45,0
+male,35,credit card,loyal,131,0,0,35,0
+male,90,credit card,loyal,138,0,0,90,0
+male,51,credit card,loyal,106,0,0,51,0
+female,24,credit card,loyal,115,1,0,24,0
+male,28,cash,loyal,94,0,2,28,0
+female,43,cheque,churn,167,1,1,43,1
+female,21,credit card,churn,106,1,0,21,1
+male,46,credit card,loyal,50,0,0,46,0
+female,34,credit card,churn,160,1,0,34,1
+male,40,credit card,loyal,87,0,0,40,0
+female,38,cash,churn,190,1,2,38,1
+male,45,credit card,loyal,77,0,0,45,0
+female,48,cash,churn,133,1,2,48,1
+male,55,credit card,churn,68,0,0,55,1
+female,17,cheque,churn,189,1,1,17,1
+male,28,credit card,loyal,94,0,0,28,0
+female,73,cash,churn,184,1,2,73,1
+female,54,cheque,churn,157,1,1,54,1
+male,70,credit card,loyal,98,0,0,70,0
+female,58,cash,churn,108,1,2,58,1
+male,40,credit card,loyal,138,0,0,40,0
+female,63,credit card,loyal,169,1,0,63,0
+female,75,cash,loyal,192,1,2,75,0
+female,39,credit card,churn,177,1,0,39,1
+male,31,cash,loyal,99,0,2,31,0
+male,90,credit card,loyal,156,0,0,90,0
+male,28,credit card,loyal,43,0,0,28,0
+male,43,credit card,loyal,44,0,0,43,0
+male,56,credit card,loyal,110,0,0,56,0
+male,40,credit card,loyal,102,0,0,40,0
+female,39,credit card,churn,118,1,0,39,1
+female,40,cash,churn,134,1,2,40,1
+female,36,credit card,loyal,173,1,0,36,0
+female,34,credit card,churn,182,1,0,34,1
+female,86,credit card,loyal,159,1,0,86,0
+male,52,cash,loyal,138,0,2,52,0
+male,20,credit card,loyal,116,0,0,20,0
+male,46,credit card,loyal,88,0,0,46,0
+male,42,cash,loyal,152,0,2,42,0
+male,54,credit card,loyal,80,0,0,54,0
+male,46,credit card,loyal,86,0,0,46,0
+female,76,credit card,churn,134,1,0,76,1
+female,20,credit card,loyal,76,1,0,20,0
+male,51,credit card,loyal,94,0,0,51,0
+male,54,cash,loyal,134,0,2,54,0
+female,65,cheque,churn,139,1,1,65,1
+female,55,credit card,loyal,172,1,0,55,0
+male,17,cash,loyal,73,0,2,17,0
+female,18,credit card,churn,130,1,0,18,1
+female,21,credit card,loyal,78,1,0,21,0
+female,64,cash,churn,142,1,2,64,1
+male,71,credit card,loyal,80,0,0,71,0
+male,43,cash,loyal,168,0,2,43,0
+female,18,cheque,churn,175,1,1,18,1
+female,39,credit card,churn,157,1,0,39,1
+male,26,cash,loyal,20,0,2,26,0
+female,17,credit card,loyal,85,1,0,17,0
+female,77,credit card,churn,145,1,0,77,1
+female,45,credit card,churn,116,1,0,45,1
+male,90,credit card,loyal,31,0,0,90,0
+male,55,cash,loyal,163,0,2,55,0
+female,37,credit card,loyal,134,1,0,37,0
+female,30,credit card,loyal,89,1,0,30,0
+male,41,credit card,loyal,117,0,0,41,0
+male,46,cash,churn,192,0,2,46,1
+male,48,credit card,loyal,114,0,0,48,0
+male,34,credit card,loyal,110,0,0,34,0
+male,52,cash,loyal,170,0,2,52,0
+female,18,credit card,loyal,70,1,0,18,0
+female,46,credit card,churn,72,1,0,46,1
+male,64,credit card,loyal,28,0,0,64,0
+female,75,cash,churn,199,1,2,75,1
+male,65,credit card,loyal,111,0,0,65,0
+male,34,credit card,churn,129,0,0,34,1
+male,27,credit card,churn,142,0,0,27,1
+male,42,credit card,loyal,69,0,0,42,0
+male,33,credit card,loyal,121,0,0,33,0
+female,49,credit card,churn,165,1,0,49,1
+female,76,credit card,churn,160,1,0,76,1
+male,41,credit card,loyal,109,0,0,41,0
+male,43,credit card,loyal,86,0,0,43,0
+female,44,cash,churn,118,1,2,44,1
+female,20,credit card,loyal,43,1,0,20,0
+male,18,credit card,loyal,96,0,0,18,0
+male,53,cash,churn,90,0,2,53,1
+male,46,credit card,loyal,92,0,0,46,0
+female,82,credit card,churn,161,1,0,82,1
+female,23,credit card,loyal,73,1,0,23,0
+male,19,cheque,loyal,108,0,1,19,0
+male,68,cash,churn,142,0,2,68,1
+male,42,credit card,loyal,96,0,0,42,0
+male,39,credit card,loyal,83,0,0,39,0
+male,73,cheque,loyal,85,0,1,73,0
+male,50,credit card,loyal,101,0,0,50,0
+male,22,cash,loyal,91,0,2,22,0
+male,20,credit card,loyal,109,0,0,20,0
+male,47,cheque,loyal,167,0,1,47,0
+female,40,credit card,churn,161,1,0,40,1
+male,23,credit card,loyal,115,0,0,23,0
+female,21,credit card,loyal,56,1,0,21,0
+male,64,credit card,loyal,69,0,0,64,0
+male,39,cash,loyal,180,0,2,39,0
+male,80,credit card,loyal,102,0,0,80,0
+female,47,credit card,churn,180,1,0,47,1
+male,85,cash,churn,166,0,2,85,1
+female,69,credit card,churn,113,1,0,69,1
+male,18,credit card,loyal,58,0,0,18,0
+male,18,credit card,loyal,95,0,0,18,0
+female,40,credit card,churn,133,1,0,40,1
+male,90,credit card,loyal,133,0,0,90,0
+female,22,cash,churn,135,1,2,22,1
+female,36,cash,churn,107,1,2,36,1
+female,51,credit card,churn,153,1,0,51,1
+male,63,cash,churn,152,0,2,63,1
+male,22,cash,loyal,50,0,2,22,0
+female,33,cash,churn,190,1,2,33,1
+male,24,credit card,loyal,108,0,0,24,0
+male,44,cash,loyal,193,0,2,44,0
+male,55,credit card,loyal,98,0,0,55,0
+male,60,credit card,loyal,126,0,0,60,0
+female,21,credit card,loyal,83,1,0,21,0
+female,56,credit card,churn,176,1,0,56,1
+female,33,cash,loyal,142,1,2,33,0
+male,56,cash,churn,164,0,2,56,1
+male,61,credit card,loyal,108,0,0,61,0
+male,91,credit card,loyal,158,0,0,91,0
+female,44,credit card,churn,129,1,0,44,1
+female,54,credit card,churn,59,1,0,54,1
+male,55,cash,loyal,121,0,2,55,0
+male,20,cash,loyal,160,0,2,20,0
+male,41,credit card,loyal,80,0,0,41,0
+male,30,credit card,loyal,70,0,0,30,0
+male,22,cheque,loyal,140,0,1,22,0
+female,17,credit card,churn,115,1,0,17,1
+male,66,credit card,loyal,106,0,0,66,0
+female,74,credit card,churn,175,1,0,74,1
+female,49,credit card,churn,166,1,0,49,1
+male,43,cash,loyal,122,0,2,43,0
+male,75,cash,loyal,195,0,2,75,0
+male,52,cash,loyal,139,0,2,52,0
+male,76,credit card,loyal,165,0,0,76,0
+female,80,credit card,loyal,48,1,0,80,0
+male,41,cash,loyal,159,0,2,41,0
+male,65,cash,loyal,155,0,2,65,0
+female,51,credit card,churn,38,1,0,51,1
+female,28,credit card,loyal,63,1,0,28,0
+male,76,credit card,loyal,127,0,0,76,0
+male,58,credit card,loyal,68,0,0,58,0
+female,28,credit card,loyal,61,1,0,28,0
+female,19,credit card,loyal,85,1,0,19,0
+male,36,credit card,loyal,107,0,0,36,0
+male,69,cash,churn,169,0,2,69,1
+male,31,credit card,loyal,86,0,0,31,0
+male,78,credit card,loyal,128,0,0,78,0
+male,26,credit card,loyal,104,0,0,26,0
+female,21,credit card,loyal,61,1,0,21,0
+male,56,credit card,loyal,43,0,0,56,0
+male,76,credit card,loyal,162,0,0,76,0
+female,39,cash,churn,139,1,2,39,1
+female,48,credit card,churn,67,1,0,48,1
+male,67,credit card,loyal,85,0,0,67,0
+female,43,credit card,loyal,140,1,0,43,0
+male,58,cash,loyal,136,0,2,58,0
+female,67,credit card,churn,47,1,0,67,1
+male,61,credit card,loyal,55,0,0,61,0
+male,49,credit card,loyal,67,0,0,49,0
+male,54,credit card,loyal,21,0,0,54,0
+male,37,credit card,loyal,91,0,0,37,0
+male,43,cash,loyal,140,0,2,43,0
+male,52,cheque,churn,166,0,1,52,1
+female,51,credit card,churn,177,1,0,51,1
+female,62,credit card,churn,82,1,0,62,1
+male,51,cash,loyal,127,0,2,51,0
+female,66,credit card,churn,169,1,0,66,1
+female,54,credit card,churn,178,1,0,54,1
+male,70,cash,churn,129,0,2,70,1
+female,44,credit card,churn,162,1,0,44,1
+female,59,credit card,churn,49,1,0,59,1
+male,54,credit card,loyal,59,0,0,54,0
+female,18,credit card,churn,3,1,0,18,1
+female,19,credit card,loyal,70,1,0,19,0
+female,19,credit card,loyal,68,1,0,19,0
+male,36,credit card,loyal,69,0,0,36,0
+male,27,cheque,loyal,93,0,1,27,0
+female,18,credit card,loyal,95,1,0,18,0
+male,58,cash,loyal,43,0,2,58,0
+female,36,credit card,churn,13,1,0,36,1
+male,47,credit card,loyal,69,0,0,47,0
+male,52,credit card,loyal,77,0,0,52,0
+male,35,credit card,loyal,44,0,0,35,0
+female,29,credit card,loyal,83,1,0,29,0
+male,32,credit card,loyal,94,0,0,32,0
+male,72,cash,loyal,127,0,2,72,0
+male,71,credit card,loyal,122,0,0,71,0
+male,49,credit card,loyal,77,0,0,49,0
+male,77,credit card,loyal,180,0,0,77,0
+male,21,cash,loyal,119,0,2,21,0
+female,29,cash,churn,109,1,2,29,1
+female,19,credit card,loyal,65,1,0,19,0
+female,63,cheque,churn,192,1,1,63,1
+male,24,credit card,loyal,100,0,0,24,0
+female,66,credit card,churn,125,1,0,66,1
+male,23,credit card,loyal,103,0,0,23,0
+female,45,credit card,churn,87,1,0,45,1
+male,30,credit card,loyal,110,0,0,30,0
+female,72,cash,churn,156,1,2,72,1
+male,79,cash,churn,96,0,2,79,1
+male,46,credit card,loyal,92,0,0,46,0
+female,69,cash,loyal,116,1,2,69,0
+female,55,cheque,churn,146,1,1,55,1
+female,27,credit card,loyal,37,1,0,27,0
+female,25,cash,loyal,170,1,2,25,0
+female,38,credit card,churn,119,1,0,38,1
+female,39,credit card,churn,109,1,0,39,1
+male,76,credit card,loyal,155,0,0,76,0
+male,34,cash,loyal,103,0,2,34,0
+female,57,credit card,churn,117,1,0,57,1
+female,23,credit card,loyal,76,1,0,23,0
+male,58,credit card,loyal,50,0,0,58,0
+female,17,credit card,churn,59,1,0,17,1
+female,47,cash,churn,131,1,2,47,1
+male,41,cash,churn,130,0,2,41,1
+male,59,credit card,loyal,29,0,0,59,0
+male,19,credit card,loyal,141,0,0,19,0
+male,53,credit card,loyal,59,0,0,53,0
+male,44,credit card,loyal,91,0,0,44,0
+male,33,credit card,loyal,52,0,0,33,0
+male,28,cash,loyal,99,0,2,28,0
+male,78,credit card,churn,157,0,0,78,1
+female,30,cash,churn,128,1,2,30,1
+male,51,credit card,loyal,103,0,0,51,0
+female,80,credit card,churn,179,1,0,80,1
+male,40,credit card,loyal,108,0,0,40,0
+female,53,cash,churn,170,1,2,53,1
+male,28,credit card,loyal,78,0,0,28,0
+female,87,credit card,churn,144,1,0,87,1
+female,36,credit card,churn,187,1,0,36,1
+female,20,credit card,loyal,96,1,0,20,0
+male,37,cash,churn,122,0,2,37,1
+male,55,cheque,churn,134,0,1,55,1
+male,72,cash,loyal,127,0,2,72,0
+male,36,cash,loyal,114,0,2,36,0
+male,34,credit card,loyal,106,0,0,34,0
+male,41,credit card,loyal,96,0,0,41,0
+female,17,credit card,loyal,83,1,0,17,0
+male,30,credit card,loyal,95,0,0,30,0
+male,17,credit card,loyal,106,0,0,17,0
+female,83,credit card,churn,132,1,0,83,1
+male,18,cash,loyal,88,0,2,18,0
+male,28,credit card,loyal,43,0,0,28,0
+male,26,cash,loyal,87,0,2,26,0
+female,33,credit card,churn,172,1,0,33,1
+male,21,credit card,loyal,105,0,0,21,0
+female,55,cash,churn,126,1,2,55,1
+male,68,cash,loyal,163,0,2,68,0
+female,29,credit card,loyal,70,1,0,29,0
+male,32,credit card,loyal,131,0,0,32,0
+male,57,cash,churn,136,0,2,57,1
+female,63,credit card,churn,104,1,0,63,1
+female,47,cash,churn,165,1,2,47,1
+female,31,credit card,churn,132,1,0,31,1
+female,27,cash,churn,54,1,2,27,1
+female,18,cash,churn,73,1,2,18,1
+female,51,credit card,churn,137,1,0,51,1
+male,17,credit card,loyal,57,0,0,17,0
+male,48,credit card,loyal,122,0,0,48,0
+male,25,credit card,loyal,83,0,0,25,0
+female,42,cash,churn,133,1,2,42,1
+female,42,credit card,churn,139,1,0,42,1
+male,47,cash,loyal,90,0,2,47,0
+female,45,cash,churn,130,1,2,45,1
+female,49,credit card,loyal,161,1,0,49,0
+male,34,credit card,loyal,78,0,0,34,0
+female,39,credit card,churn,17,1,0,39,1
+female,29,credit card,churn,87,1,0,29,1
+female,32,cash,loyal,171,1,2,32,0
+male,25,cash,loyal,88,0,2,25,0
+male,21,credit card,loyal,45,0,0,21,0
+female,57,cash,churn,168,1,2,57,1
+female,64,credit card,churn,127,1,0,64,1
+female,51,cash,churn,117,1,2,51,1
+male,24,credit card,loyal,55,0,0,24,0
+male,60,credit card,loyal,96,0,0,60,0
+male,35,credit card,loyal,77,0,0,35,0
+male,54,credit card,loyal,100,0,0,54,0
+female,55,cash,churn,141,1,2,55,1
+male,40,cash,loyal,41,0,2,40,0
+male,91,credit card,loyal,109,0,0,91,0
+female,40,cash,loyal,108,1,2,40,0
+male,51,cash,loyal,133,0,2,51,0
+female,46,credit card,churn,110,1,0,46,1
+male,54,cash,churn,159,0,2,54,1
+female,17,credit card,loyal,87,1,0,17,0
+female,21,cheque,churn,124,1,1,21,1
+female,18,credit card,loyal,111,1,0,18,0
+female,20,credit card,loyal,83,1,0,20,0
+male,27,cash,loyal,111,0,2,27,0
+male,28,credit card,loyal,129,0,0,28,0
+female,44,credit card,churn,156,1,0,44,1
+male,21,credit card,loyal,42,0,0,21,0
+male,32,cash,churn,36,0,2,32,1
+female,37,cash,churn,128,1,2,37,1
+male,18,cash,loyal,143,0,2,18,0
+female,89,credit card,churn,138,1,0,89,1
+male,41,credit card,loyal,85,0,0,41,0
+male,72,cash,loyal,115,0,2,72,0
+female,29,cheque,churn,118,1,1,29,1
+male,46,credit card,loyal,69,0,0,46,0
+female,61,cash,churn,144,1,2,61,1
+male,45,credit card,loyal,96,0,0,45,0
+male,51,credit card,loyal,45,0,0,51,0
+female,74,credit card,loyal,68,1,0,74,0
+male,48,credit card,churn,33,0,0,48,1
+male,28,cash,loyal,42,0,2,28,0
+female,46,credit card,churn,65,1,0,46,1
+female,32,credit card,churn,127,1,0,32,1
+female,53,cash,churn,154,1,2,53,1
+male,57,credit card,loyal,123,0,0,57,0
+male,22,cash,loyal,98,0,2,22,0
+male,49,credit card,loyal,116,0,0,49,0
+male,63,credit card,loyal,116,0,0,63,0
+male,90,credit card,loyal,15,0,0,90,0
+male,57,cheque,loyal,166,0,1,57,0
+female,28,credit card,loyal,85,1,0,28,0
+female,17,cash,loyal,149,1,2,17,0
+male,50,cash,loyal,154,0,2,50,0
+male,51,credit card,loyal,90,0,0,51,0
+female,74,credit card,churn,33,1,0,74,1
+female,73,credit card,churn,139,1,0,73,1
+male,52,cash,loyal,147,0,2,52,0
+female,52,credit card,churn,135,1,0,52,1
+male,19,credit card,loyal,1,0,0,19,0
+male,54,cash,loyal,142,0,2,54,0
+male,26,credit card,loyal,72,0,0,26,0
+female,25,cheque,loyal,164,1,1,25,0
+male,42,credit card,loyal,114,0,0,42,0
+male,34,credit card,loyal,80,0,0,34,0
+female,19,credit card,churn,46,1,0,19,1
+female,27,cash,churn,46,1,2,27,1
+male,81,credit card,loyal,78,0,0,81,0
+female,32,cheque,churn,151,1,1,32,1
+male,70,cash,loyal,93,0,2,70,0
+female,23,credit card,churn,78,1,0,23,1
+female,17,credit card,loyal,36,1,0,17,0
+male,19,cash,loyal,71,0,2,19,0
+female,27,credit card,loyal,92,1,0,27,0
+female,57,credit card,churn,148,1,0,57,1
+male,57,credit card,loyal,117,0,0,57,0
+male,67,cash,loyal,145,0,2,67,0
+female,63,cheque,churn,86,1,1,63,1
+female,40,credit card,churn,147,1,0,40,1
+female,58,credit card,churn,152,1,0,58,1
+male,23,cash,loyal,67,0,2,23,0
+male,76,credit card,churn,133,0,0,76,1
+female,73,cash,loyal,141,1,2,73,0
+female,40,cash,churn,90,1,2,40,1
+male,33,credit card,loyal,108,0,0,33,0
+male,54,credit card,loyal,76,0,0,54,0
+female,17,credit card,loyal,25,1,0,17,0
+male,51,cash,loyal,157,0,2,51,0
+female,48,credit card,loyal,159,1,0,48,0
+male,43,credit card,loyal,80,0,0,43,0
+male,36,credit card,churn,101,0,0,36,1
+female,22,credit card,loyal,38,1,0,22,0
+male,62,credit card,loyal,85,0,0,62,0
+male,43,credit card,loyal,117,0,0,43,0
+female,42,credit card,loyal,55,1,0,42,0
+male,22,cash,loyal,16,0,2,22,0
+male,64,credit card,churn,76,0,0,64,1
+male,34,cheque,loyal,115,0,1,34,0
+female,42,credit card,churn,131,1,0,42,1
+female,19,cash,churn,167,1,2,19,1
+male,36,credit card,loyal,74,0,0,36,0
+male,39,credit card,loyal,39,0,0,39,0
+male,83,credit card,loyal,127,0,0,83,0
+female,28,credit card,loyal,93,1,0,28,0
+male,68,cash,loyal,129,0,2,68,0
+male,48,credit card,loyal,71,0,0,48,0
+female,60,credit card,churn,114,1,0,60,1
+male,76,credit card,churn,105,0,0,76,1
+female,50,cheque,churn,139,1,1,50,1
+female,21,credit card,loyal,96,1,0,21,0
+female,46,credit card,loyal,176,1,0,46,0
+female,35,credit card,loyal,28,1,0,35,0
+male,27,cheque,loyal,82,0,1,27,0
+male,39,credit card,loyal,76,0,0,39,0
+male,61,credit card,loyal,71,0,0,61,0
+female,20,credit card,loyal,118,1,0,20,0
+female,22,credit card,loyal,35,1,0,22,0
+female,53,credit card,churn,141,1,0,53,1
+male,20,cash,loyal,26,0,2,20,0
+male,52,credit card,loyal,85,0,0,52,0
+male,36,credit card,loyal,93,0,0,36,0
+female,52,credit card,churn,139,1,0,52,1
+male,28,credit card,loyal,57,0,0,28,0
+male,32,credit card,loyal,86,0,0,32,0
+female,18,credit card,loyal,64,1,0,18,0
+female,22,cheque,churn,94,1,1,22,1
+male,81,credit card,loyal,132,0,0,81,0
+female,52,cash,churn,98,1,2,52,1
+female,76,credit card,churn,162,1,0,76,1
+male,43,credit card,loyal,73,0,0,43,0
+male,23,credit card,loyal,99,0,0,23,0
+male,34,credit card,loyal,151,0,0,34,0
+female,38,credit card,loyal,117,1,0,38,0
+female,33,credit card,churn,118,1,0,33,1
+male,48,cash,loyal,97,0,2,48,0
+male,41,cash,loyal,119,0,2,41,0
+male,78,credit card,loyal,131,0,0,78,0
+female,51,credit card,loyal,102,1,0,51,0
+male,42,credit card,loyal,73,0,0,42,0
+male,72,cash,loyal,160,0,2,72,0
+female,20,cash,loyal,123,1,2,20,0
+male,69,cash,loyal,153,0,2,69,0
+male,37,cash,loyal,150,0,2,37,0
+female,45,credit card,churn,154,1,0,45,1
+female,77,credit card,churn,164,1,0,77,1
+male,79,credit card,loyal,149,0,0,79,0
+male,44,credit card,loyal,73,0,0,44,0
+male,30,cash,loyal,76,0,2,30,0
+female,50,cash,loyal,122,1,2,50,0
+male,57,cash,churn,172,0,2,57,1
+male,42,credit card,churn,52,0,0,42,1
+female,64,cash,churn,146,1,2,64,1
+female,50,cash,churn,74,1,2,50,1
+male,28,cash,loyal,71,0,2,28,0
+male,50,cash,loyal,37,0,2,50,0
+female,41,credit card,churn,93,1,0,41,1
+female,64,credit card,churn,160,1,0,64,1
+female,81,credit card,churn,91,1,0,81,1
+female,48,cash,churn,114,1,2,48,1
+male,84,credit card,loyal,122,0,0,84,0
+male,29,credit card,loyal,103,0,0,29,0
+female,42,credit card,churn,109,1,0,42,1
+female,40,credit card,churn,174,1,0,40,1
+male,79,credit card,loyal,129,0,0,79,0
+female,24,cheque,churn,158,1,1,24,1
+female,17,credit card,loyal,121,1,0,17,0
+male,18,credit card,loyal,74,0,0,18,0
+male,45,credit card,loyal,61,0,0,45,0
+male,51,cash,loyal,120,0,2,51,0
+male,17,credit card,loyal,101,0,0,17,0
+female,74,credit card,churn,143,1,0,74,1
+female,35,credit card,churn,155,1,0,35,1
+male,24,credit card,loyal,67,0,0,24,0
+male,58,credit card,loyal,66,0,0,58,0
+female,45,credit card,churn,125,1,0,45,1
+female,76,cash,churn,133,1,2,76,1
+female,58,cash,loyal,75,1,2,58,0
+male,33,cheque,loyal,50,0,1,33,0
+male,81,cash,loyal,204,0,2,81,0
+female,20,credit card,loyal,79,1,0,20,0
+male,52,cash,loyal,140,0,2,52,0
+male,22,cash,loyal,100,0,2,22,0
+female,18,credit card,loyal,84,1,0,18,0
+female,17,credit card,loyal,54,1,0,17,0
+female,29,credit card,loyal,69,1,0,29,0
+female,72,credit card,churn,151,1,0,72,1
+male,39,cash,loyal,106,0,2,39,0
+male,33,cheque,loyal,13,0,1,33,0
+male,52,credit card,loyal,124,0,0,52,0
+male,62,credit card,loyal,67,0,0,62,0
+male,17,credit card,loyal,65,0,0,17,0
+female,30,credit card,loyal,93,1,0,30,0
+female,30,credit card,loyal,122,1,0,30,0
+female,59,cash,churn,119,1,2,59,1
+female,40,cash,churn,43,1,2,40,1
+female,51,credit card,churn,36,1,0,51,1
+male,30,credit card,loyal,73,0,0,30,0
+male,54,cash,loyal,128,0,2,54,0
+male,39,credit card,loyal,38,0,0,39,0
+female,37,cheque,churn,120,1,1,37,1
+female,43,cash,loyal,140,1,2,43,0
+male,42,cash,churn,175,0,2,42,1
+male,36,credit card,loyal,88,0,0,36,0
+male,43,cash,loyal,144,0,2,43,0
+female,30,credit card,loyal,60,1,0,30,0
+female,38,credit card,churn,138,1,0,38,1
+female,67,credit card,churn,85,1,0,67,1
+male,18,credit card,loyal,78,0,0,18,0
+male,71,cash,churn,157,0,2,71,1
+male,45,cheque,loyal,106,0,1,45,0
+female,59,credit card,churn,168,1,0,59,1
+female,39,credit card,churn,23,1,0,39,1
+male,70,cash,loyal,123,0,2,70,0
+male,31,cash,loyal,61,0,2,31,0
+male,91,credit card,loyal,133,0,0,91,0
+male,59,credit card,loyal,57,0,0,59,0
+male,47,credit card,loyal,85,0,0,47,0
+female,56,credit card,churn,162,1,0,56,1
+male,44,cash,loyal,119,0,2,44,0
+male,78,credit card,churn,137,0,0,78,1
+female,35,credit card,churn,156,1,0,35,1
+male,27,credit card,loyal,28,0,0,27,0
+male,57,cash,loyal,143,0,2,57,0
+male,53,credit card,loyal,52,0,0,53,0
+female,90,credit card,loyal,109,1,0,90,0
+male,32,credit card,churn,23,0,0,32,1
+female,41,cash,churn,103,1,2,41,1
+female,47,credit card,churn,117,1,0,47,1
+male,90,credit card,loyal,123,0,0,90,0
+male,72,cash,loyal,127,0,2,72,0
+male,42,cash,loyal,150,0,2,42,0
+male,59,cheque,loyal,146,0,1,59,0
+female,29,cash,loyal,62,1,2,29,0
+male,39,credit card,loyal,68,0,0,39,0
+female,41,cheque,loyal,100,1,1,41,0
+female,28,cash,churn,151,1,2,28,1
+female,72,credit card,churn,19,1,0,72,1
+female,45,cheque,loyal,105,1,1,45,0
+female,26,credit card,loyal,29,1,0,26,0
+female,29,credit card,loyal,30,1,0,29,0
+female,28,credit card,loyal,82,1,0,28,0
+male,40,credit card,loyal,47,0,0,40,0
+male,85,credit card,loyal,112,0,0,85,0
+female,50,credit card,loyal,53,1,0,50,0
+male,21,credit card,loyal,74,0,0,21,0
+female,76,cash,loyal,62,1,2,76,0
+female,84,credit card,churn,114,1,0,84,1
+female,49,credit card,churn,107,1,0,49,1
+female,39,cash,churn,126,1,2,39,1
+male,17,credit card,loyal,70,0,0,17,0
+female,54,credit card,churn,183,1,0,54,1
+male,64,cash,loyal,43,0,2,64,0
+male,32,cash,loyal,66,0,2,32,0
+male,35,cash,loyal,55,0,2,35,0
+male,34,cash,loyal,56,0,2,34,0
+female,33,credit card,churn,112,1,0,33,1
+male,22,credit card,loyal,69,0,0,22,0
+female,73,cheque,churn,100,1,1,73,1
+male,39,credit card,loyal,108,0,0,39,0
+female,47,cash,churn,90,1,2,47,1
+female,26,credit card,loyal,21,1,0,26,0
+male,67,cash,loyal,113,0,2,67,0
+male,52,credit card,loyal,34,0,0,52,0
+female,23,credit card,loyal,54,1,0,23,0
+female,61,cash,churn,84,1,2,61,1
+female,55,credit card,loyal,47,1,0,55,0
+female,42,credit card,loyal,138,1,0,42,0
+male,42,credit card,loyal,46,0,0,42,0
+female,69,cash,churn,108,1,2,69,1
+male,34,cash,loyal,66,0,2,34,0
+female,20,credit card,loyal,68,1,0,20,0
+male,86,credit card,churn,137,0,0,86,1
+male,44,cheque,loyal,64,0,1,44,0
+female,83,cash,churn,105,1,2,83,1
+male,25,credit card,loyal,67,0,0,25,0
+male,45,cash,loyal,162,0,2,45,0
+male,19,credit card,loyal,72,0,0,19,0
+male,45,credit card,loyal,65,0,0,45,0
+male,31,credit card,loyal,42,0,0,31,0
+male,20,credit card,loyal,78,0,0,20,0
+male,56,credit card,loyal,64,0,0,56,0
+female,61,credit card,churn,147,1,0,61,1
+male,20,credit card,loyal,108,0,0,20,0
+female,25,credit card,loyal,76,1,0,25,0
+male,45,cash,loyal,63,0,2,45,0
+female,38,credit card,churn,89,1,0,38,1
+male,37,cheque,churn,111,0,1,37,1
+male,51,credit card,loyal,75,0,0,51,0
+male,27,credit card,loyal,70,0,0,27,0
+female,42,cash,churn,119,1,2,42,1
+male,20,cash,loyal,68,0,2,20,0
+male,56,credit card,loyal,119,0,0,56,0
+female,69,credit card,churn,97,1,0,69,1
+male,89,cash,churn,77,0,2,89,1
+male,41,credit card,loyal,65,0,0,41,0
+male,48,credit card,loyal,87,0,0,48,0
+male,38,credit card,loyal,83,0,0,38,0
+male,38,cash,churn,121,0,2,38,1
+male,67,cash,churn,157,0,2,67,1
+male,87,cheque,loyal,138,0,1,87,0
+male,29,cash,loyal,45,0,2,29,0
+female,51,credit card,churn,113,1,0,51,1
+male,31,credit card,loyal,67,0,0,31,0
+female,34,credit card,churn,133,1,0,34,1
+male,32,credit card,loyal,85,0,0,32,0
+female,26,cheque,loyal,177,1,1,26,0
+male,65,credit card,loyal,55,0,0,65,0
+male,43,credit card,loyal,78,0,0,43,0
+female,45,credit card,churn,101,1,0,45,1
+female,57,cash,loyal,68,1,2,57,0
+male,34,credit card,churn,35,0,0,34,1
+female,18,credit card,churn,34,1,0,18,1
+female,70,cash,loyal,104,1,2,70,0
+female,46,credit card,loyal,87,1,0,46,0
+male,24,credit card,loyal,80,0,0,24,0
+male,52,credit card,loyal,104,0,0,52,0
+female,48,cash,loyal,150,1,2,48,0
+female,27,cash,churn,148,1,2,27,1
+male,26,credit card,loyal,42,0,0,26,0
+female,66,credit card,churn,75,1,0,66,1
+male,49,credit card,loyal,77,0,0,49,0
+female,55,credit card,loyal,111,1,0,55,0
+female,24,cash,churn,110,1,2,24,1
+female,63,cash,loyal,89,1,2,63,0
+female,52,credit card,churn,107,1,0,52,1
+male,25,cash,loyal,86,0,2,25,0
+female,30,credit card,loyal,100,1,0,30,0
+male,63,cheque,loyal,75,0,1,63,0
+female,76,credit card,churn,111,1,0,76,1
+female,69,cheque,churn,93,1,1,69,1
+female,43,cash,churn,123,1,2,43,1
+male,42,credit card,loyal,49,0,0,42,0
+male,51,credit card,loyal,54,0,0,51,0
+male,44,credit card,loyal,79,0,0,44,0
+male,51,credit card,loyal,38,0,0,51,0
+male,30,credit card,loyal,23,0,0,30,0
+female,28,credit card,churn,7,1,0,28,1
+male,50,credit card,loyal,87,0,0,50,0
+male,25,credit card,loyal,103,0,0,25,0
+male,56,cash,churn,49,0,2,56,1
+female,17,credit card,churn,106,1,0,17,1
+female,59,credit card,churn,108,1,0,59,1
+female,70,cash,churn,114,1,2,70,1
+male,45,cash,churn,129,0,2,45,1
+male,43,cash,loyal,83,0,2,43,0
+male,50,credit card,loyal,34,0,0,50,0
+male,46,cash,loyal,119,0,2,46,0
+male,29,cash,loyal,109,0,2,29,0
+male,49,credit card,loyal,57,0,0,49,0
+female,43,cash,churn,102,1,2,43,1
+male,35,cash,churn,70,0,2,35,1
+male,19,credit card,loyal,19,0,0,19,0
+male,76,cash,churn,128,0,2,76,1
+female,53,credit card,loyal,99,1,0,53,0
+female,64,credit card,churn,91,1,0,64,1
+female,42,credit card,churn,141,1,0,42,1
+male,53,credit card,loyal,35,0,0,53,0
+female,66,credit card,churn,95,1,0,66,1
+female,73,cash,churn,71,1,2,73,1
+male,31,credit card,loyal,45,0,0,31,0
+male,68,credit card,loyal,94,0,0,68,0
+female,38,credit card,churn,130,1,0,38,1
+female,39,credit card,churn,75,1,0,39,1
+male,23,cash,loyal,74,0,2,23,0
+female,52,cash,churn,97,1,2,52,1
+male,38,credit card,loyal,6,0,0,38,0
+male,81,cash,loyal,148,0,2,81,0
+male,20,cash,loyal,108,0,2,20,0
+female,20,credit card,churn,51,1,0,20,1
+female,42,credit card,churn,91,1,0,42,1
+male,80,cheque,loyal,109,0,1,80,0
+male,43,credit card,loyal,49,0,0,43,0
+male,23,credit card,loyal,59,0,0,23,0
+female,29,credit card,loyal,57,1,0,29,0
+female,44,credit card,churn,89,1,0,44,1
+male,37,cash,loyal,45,0,2,37,0
+male,26,credit card,loyal,58,0,0,26,0
+male,21,credit card,loyal,66,0,0,21,0
+female,80,cheque,churn,56,1,1,80,1
+male,50,cash,loyal,105,0,2,50,0
+female,28,credit card,loyal,23,1,0,28,0
+male,82,cash,loyal,24,0,2,82,0
+male,19,credit card,loyal,92,0,0,19,0
+female,29,credit card,loyal,33,1,0,29,0
+male,84,credit card,loyal,124,0,0,84,0
+male,19,credit card,loyal,49,0,0,19,0
+female,24,credit card,loyal,25,1,0,24,0
